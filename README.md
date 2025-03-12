@@ -1,4 +1,4 @@
-Below is a well-structured README.md for your project. It covers the project overview, technologies used, and detailed game rules (how to play). The content is written in Markdown, suitable for GitHub, with clear sections and concise explanations tailored to your multiplayer board game.
+
 Jogo da Teia (Web Game)
 Jogo da Teia is a two-player strategy board game implemented as a full-stack web application. It features a 3x3 grid where players move their pieces strategically to form a winning pattern, similar to Tic-Tac-Toe but with unique movement mechanics. The game is built with real-time multiplayer functionality using WebSockets, allowing two players to compete over a network.
 This project showcases a client-server architecture with a React frontend for an interactive UI and a Node.js backend for game logic and synchronization. Whether you're a developer looking to explore real-time applications or a player eager for a strategic challenge, Jogo da Teia offers both a fun experience and a learning opportunity.
