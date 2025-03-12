@@ -1,7 +1,7 @@
 
-Jogo da Teia (Web Game)
-Jogo da Teia is a two-player strategy board game implemented as a full-stack web application. It features a 3x3 grid where players move their pieces strategically to form a winning pattern, similar to Tic-Tac-Toe but with unique movement mechanics. The game is built with real-time multiplayer functionality using WebSockets, allowing two players to compete over a network.
-This project showcases a client-server architecture with a React frontend for an interactive UI and a Node.js backend for game logic and synchronization. Whether you're a developer looking to explore real-time applications or a player eager for a strategic challenge, Jogo da Teia offers both a fun experience and a learning opportunity.
+Strike3 (Web Game)
+Strike3 is a two-player strategy board game implemented as a full-stack web application. It features a 3x3 grid where players move their pieces strategically to form a winning pattern, similar to Tic-Tac-Toe but with unique movement mechanics. The game is built with real-time multiplayer functionality using WebSockets, allowing two players to compete over a network.
+This project showcases a client-server architecture with a React frontend for an interactive UI and a Node.js backend for game logic and synchronization. Whether you're a developer looking to explore real-time applications or a player eager for a strategic challenge, Strike3 offers both a fun experience and a learning opportunity.
 Table of Contents
 Technologies (#technologies)
 Game Rules (#game-rules)
@@ -24,7 +24,7 @@ Git: Version control for managing the project’s codebase.
 npm: Package manager for installing dependencies.
 Serve: A static file server for hosting the production build of the frontend.
 Game Rules
-Jogo da Teia is a strategic game played on a 3x3 grid between two players: Player X (black pieces) and Player O (white pieces). The objective is to move your pieces to form one of the predefined winning patterns while blocking your opponent.
+Strike3 is a strategic game played on a 3x3 grid between two players: Player X (black pieces) and Player O (white pieces). The objective is to move your pieces to form one of the predefined winning patterns while blocking your opponent.
 Initial Setup
 The game starts with a 3x3 grid in this configuration:
 ```
